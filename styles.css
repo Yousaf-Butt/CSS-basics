@@ -1,0 +1,24 @@
+body{
+    color:black;
+    background-color: darkslategrey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+.black-border{
+    border: 2px solid black;
+    background-color: lightgrey;
+}
+.image{
+    border: 2px solid black;
+}
+h1{
+    color: lightgrey;
+    font-family: Tahoma;
+}
+h2{
+    color:lightgrey;
+}
+#mountain-list{
+    color: lightgrey;
+    font-size: 20px;
+}
